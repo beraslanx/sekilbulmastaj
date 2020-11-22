@@ -1,2 +1,2 @@
 # sekilbulmastaj
-Burak eraslan golgeli ve golgesiz şekil tanıma
+Burak Eraslan golgeli ve golgesiz şekil tanıma
